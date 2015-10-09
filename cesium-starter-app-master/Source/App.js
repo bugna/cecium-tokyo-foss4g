@@ -23,7 +23,7 @@ point.add({
 var point = viewer.entities;
 
 point.add({
-        position : Cesium.Cartesian3.fromDegrees(139.65683335.350958),
+        position : Cesium.Cartesian3.fromDegrees(139.656833,35.350958),
         point : {
             pixelSize : 10,
             color : Cesium.Color.YELLOW
@@ -49,7 +49,7 @@ line1.add({
     name : 'Red line on the surface',
     polyline : {
         positions : Cesium.Cartesian3.fromDegreesArray([139.598430,35.323275,
-                                                        139.65683335.350958]),
+                                                        139.656833,35.350958]),
         width : 5,
         material : Cesium.Color.GREEN
     }
@@ -61,7 +61,7 @@ var line1 = viewer.entities;
 line1.add({
     name : 'Red line on the surface',
     polyline : {
-        positions : Cesium.Cartesian3.fromDegreesArray([139.65683335.350958,
+        positions : Cesium.Cartesian3.fromDegreesArray([139.656833,35.350958,
                                                         139.598430,35.323275]),
         width : 5,
         material : Cesium.Color.GREEN
