@@ -44,7 +44,7 @@ Polygon.add({
         hierarchy : Cesium.Cartesian3.fromDegreesArray([-108.0, 42.0,
                                                         -100.0, 42.0,
                                                         -104.0, 40.0]),
-        extrudedHeight: 000000.0,
+//        extrudedHeight: 500000.0,
 	material : Cesium.Color.GREEN
     }
 });
