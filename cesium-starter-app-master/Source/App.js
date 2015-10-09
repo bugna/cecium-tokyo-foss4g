@@ -56,7 +56,7 @@ line1.add({
 });
 
 //ルート2を追加　一旦帰る
-var line1 = viewer.entities;
+var line2 = viewer.entities;
 
 line1.add({
     name : 'Red line on the surface',
@@ -69,7 +69,7 @@ line1.add({
 });
 
 //ルート3を追加　シーパラへ自転車で
-var line1 = viewer.entities;
+var line3 = viewer.entities;
 
 line1.add({
     name : 'Red line on the surface',
@@ -82,7 +82,7 @@ line1.add({
 });
 
 //ルート4を追加　シーパラへ自転車で
-var line1 = viewer.entities;
+var line4 = viewer.entities;
 
 line1.add({
     name : 'Red line on the surface',
@@ -95,7 +95,7 @@ line1.add({
 });
 
 //ルート5を追加　八景からシーパラ
-var line1 = viewer.entities;
+var line5 = viewer.entities;
 
 line1.add({
     name : 'Red line on the surface',
